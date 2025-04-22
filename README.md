@@ -93,7 +93,7 @@ direktori Controller kemudian isi kodenya seperti berikut.
 
 ![image](https://github.com/user-attachments/assets/c299574b-ce23-460a-a56d-3db282e82ac3)
 
-Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaotu halaman sudah
+Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halaman sudah
 dapat diakses.
 
 ![Screenshot 2025-03-21 132900](https://github.com/user-attachments/assets/3f5987fd-8fe8-4cf8-8a19-e067cc3fef12)
